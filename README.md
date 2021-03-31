@@ -8,7 +8,7 @@
 
 ### ❤Credits❤:
 
-[Infinity BOTs](https://t.me/JenulRanthisa)
+[Jenul Ranthisa](https://t.me/JenulRanthisa)
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
