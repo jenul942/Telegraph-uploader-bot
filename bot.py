@@ -149,4 +149,4 @@ Join @HelpSinhalen
 """
 )
 
-Jebot.run()
+Jrbot.run()
